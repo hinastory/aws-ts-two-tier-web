@@ -58,3 +58,8 @@
 
 To clean up resources, run `pulumi destroy` and answer the confirmation question at the prompt.
 To clean up a stack, run `pulumi stack rm` and answer the confirmation question at the prompt.
+
+
+## License
+
+MIT
