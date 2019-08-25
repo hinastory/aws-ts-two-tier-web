@@ -1,0 +1,3 @@
+name: aws-ts-two-tier-web
+runtime: nodejs
+description: 2-tier web application hosting example for AWS
