@@ -7,7 +7,7 @@
 ## Requirements
 
 - [Pulumi](https://www.pulumi.com/)
-- [Node.js version 8 or later](https://nodejs.org/en/download/) for Typescript
+- [Node.js version 8 or later](https://nodejs.org/en/download/) for TypeScript
 - [AWS CLI](https://aws.amazon.com/cli/)
 
 ## Running the App
